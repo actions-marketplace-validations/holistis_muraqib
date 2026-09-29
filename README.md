@@ -12,6 +12,10 @@ Nightly Playwright tests against your live app. When something breaks, Claude op
 
 MIT licensed. No hosted service, no monthly bill. It runs in your own GitHub Actions.
 
+Want a single check right now instead of nightly monitoring, no setup at all? See
+[site-check-mcp](https://github.com/holistis/site-check-mcp) — pay $0.02 per call
+(x402, USDC on Base), get a real-browser report back in seconds.
+
 ## Start here
 
 Already have Muraqib, or any nightly Playwright setup, in a repo:
